@@ -1,7 +1,7 @@
 #!/bin/bash
 
 maFonction() {
-	echo "salut"
+	echo "salut $1"
 }
 
 maFonction MarcO
